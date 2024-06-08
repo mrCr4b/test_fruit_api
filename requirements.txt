@@ -1,4 +1,5 @@
 Flask
+flask-restful
 Jinja2
 Flask-SQLAlchemy
 SQLAlchemy
