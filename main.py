@@ -132,4 +132,4 @@ api.add_resource(Products, "/all_products")
 api.add_resource(Edit_Product, "/edit_product")
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    app.run(debug=False)
