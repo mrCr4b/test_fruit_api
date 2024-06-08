@@ -1,7 +1,5 @@
 Flask
-Flask-RESTful
 Jinja2
-Flask-SQLAlchemy
 SQLAlchemy
 Werkzeug
 gunicorn
