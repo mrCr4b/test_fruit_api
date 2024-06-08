@@ -7,6 +7,6 @@ Jinja2
 MarkupSafe
 pytz
 six
-SQLAlchemy
+Flask-SQLAlchemy
 Werkzeug
 gunicorn
